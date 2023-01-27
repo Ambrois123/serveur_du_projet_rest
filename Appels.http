@@ -1,1 +1,1 @@
-GET http://localhost/serveur_du_projet/app/Controllers/users/read.php
+GET http://localhost/serveur_du_projet/app/Controllers/UsersController.php

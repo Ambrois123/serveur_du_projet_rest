@@ -1,6 +1,6 @@
 <?php
 
-include ('./app/models/UsersModel.php');
+require_once ('../../app/models/UsersModel.php');
 
 class UsersController
 {
